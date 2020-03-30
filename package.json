@@ -1,0 +1,14 @@
+{
+  "name": "htdconnector",
+  "version": "1.0.0",
+  "description": "web与电脑之间的连接器。",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "zhu",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^8.2.0"
+  }
+}
