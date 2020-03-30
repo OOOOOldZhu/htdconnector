@@ -2,7 +2,7 @@
   "name": "htdconnector",
   "version": "1.0.0",
   "description": "web与电脑之间的连接器。",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
