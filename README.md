@@ -1,5 +1,5 @@
 # htdconnector
-web与window、Mac电脑通信的socket连接器
+Electron框架实现、node.js开发.web与window、Mac电脑通信的socket连接器
 
 打造你的第一个 Electron 应用
 
