@@ -10,5 +10,9 @@
   "license": "MIT",
   "devDependencies": {
     "electron": "^8.2.0"
+  },
+  "dependencies": {
+    "runtime": "^0.14.1",
+    "noble-mac": "https://github.com/Timeular/noble-mac.git"
   }
 }

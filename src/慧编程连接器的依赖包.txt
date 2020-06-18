@@ -1,0 +1,29 @@
+{
+  "name": "robocomm-web",
+  "version": "1.3.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Makeblock-mblock/robocomm-web.git"
+  },
+  "author": "zhangkun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Makeblock-mblock/robocomm-web/issues"
+  },
+  "homepage": "https://gitlab.com/Makeblock-mblock/robocomm-web#README",
+  "dependencies": {
+    "@babel/runtime": "^7.1.2",
+    "@kunz/noble-mac": "^1.0.6",
+    "iconv-lite": "^0.4.24",
+    "log4js": "^5.1.0",
+    "serialport": "^6.2.2",
+    "noble-uwp": "^0.6.2",
+    "node-hid": "^0.7.9",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {}
+}
